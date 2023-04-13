@@ -36,16 +36,16 @@ If you find this project helpful for your research, please consider citing the f
     year={2023}
 }
 @misc{liu2023zero1to3,
-      title={Zero-1-to-3: Zero-shot One Image to 3D Object}, 
-      author={Ruoshi Liu and Rundi Wu and Basile Van Hoorick and Pavel Tokmakov and Sergey Zakharov and Carl Vondrick},
-      year={2023},
-      eprint={2303.11328},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+    title={Zero-1-to-3: Zero-shot One Image to 3D Object}, 
+    author={Ruoshi Liu and Rundi Wu and Basile Van Hoorick and Pavel Tokmakov and Sergey Zakharov and Carl Vondrick},
+    year={2023},
+    eprint={2303.11328},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 @inproceedings{Lei2023AHR,
-  title={A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images},
-  author={Biwen Lei and Jianqiang Ren and Mengyang Feng and Miaomiao Cui and Xuansong Xie},
-  year={2023}
+    title={A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images},
+    author={Biwen Lei and Jianqiang Ren and Mengyang Feng and Miaomiao Cui and Xuansong Xie},
+    year={2023}
 }
 ```
