@@ -3,8 +3,11 @@
 
 We plan to create a very interesting demo by combining [Segment Anything](https://github.com/facebookresearch/segment-anything) and a series of 3D models! Right now, this is just a simple small project. We will continue to improve it and create more interesting demos. 
 
-
-## Anything-Novel-View
+- [Anything-3DNovel-View](#anything-3dnovel-view)
+- [Any-3DFace](#any-3dface)
+- [:cupid: Acknowledgements](#cupid-acknowledgements)
+- [Citation](#citation)
+## Anything-3DNovel-View
 - SAM + [Zero 1-to-3](https://github.com/cvlab-columbia/zero123)
 
 ![1](novel-view/assets/1.jpeg)
@@ -19,6 +22,7 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 | <img src="AnyFace3D/assets/celebrity_selfie/mask_1.jpg" width="2000"> | ![1](AnyFace3D/assets/celebrity_selfie/1.gif) |
 | <img src="AnyFace3D/assets/celebrity_selfie/mask_2.jpg" width="2000">| ![3](AnyFace3D/assets/celebrity_selfie/2.gif) |
 | <img src="AnyFace3D/assets/celebrity_selfie/mask_3.jpg" width="2000">| ![3](AnyFace3D/assets/celebrity_selfie/3.gif) |
+
 
 
 ## :cupid: Acknowledgements
