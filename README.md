@@ -11,8 +11,15 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 ![2](novel-view/assets/2.jpeg)
 ![3](novel-view/assets/3.jpeg)
 
-## Name
+## Any-3DFace
 - SAM + [HRN](https://younglbw.github.io/HRN-homepage/)
+
+| Segmentation | Result|
+| --- | ---|
+| ![1](AnyFace3D/assets/celebrity_selfie/mask_1.jpg)| ![1](AnyFace3D/assets/celebrity_selfie/1.gif) |
+| ![2](AnyFace3D/assets/celebrity_selfie/mask_2.jpg)| ![3](AnyFace3D/assets/celebrity_selfie/2.gif) |
+| ![3](AnyFace3D/assets/celebrity_selfie/mask_3.jpg)| ![3](AnyFace3D/assets/celebrity_selfie/3.gif) |
+
 
 ## :cupid: Acknowledgements
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
