@@ -11,9 +11,13 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 ![2](novel-view/assets/2.jpeg)
 ![3](novel-view/assets/3.jpeg)
 
+## Name
+- SAM + [HRN](https://younglbw.github.io/HRN-homepage/)
+
 ## :cupid: Acknowledgements
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
 - [Zero 1-to-3](https://github.com/cvlab-columbia/zero123)
+- [HRN](https://younglbw.github.io/HRN-homepage/)
 
 ## Citation
 If you find this project helpful for your research, please consider citing the following BibTeX entry.
@@ -31,5 +35,10 @@ If you find this project helpful for your research, please consider citing the f
       eprint={2303.11328},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
+@inproceedings{Lei2023AHR,
+  title={A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images},
+  author={Biwen Lei and Jianqiang Ren and Mengyang Feng and Miaomiao Cui and Xuansong Xie},
+  year={2023}
 }
 ```
