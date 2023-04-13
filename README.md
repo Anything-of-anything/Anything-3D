@@ -16,9 +16,9 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 
 | Segmentation | Result|
 | --- | ---|
-| ![1](AnyFace3D/assets/celebrity_selfie/mask_1.jpg)| ![1](AnyFace3D/assets/celebrity_selfie/1.gif) |
-| ![2](AnyFace3D/assets/celebrity_selfie/mask_2.jpg)| ![3](AnyFace3D/assets/celebrity_selfie/2.gif) |
-| ![3](AnyFace3D/assets/celebrity_selfie/mask_3.jpg)| ![3](AnyFace3D/assets/celebrity_selfie/3.gif) |
+| <img src="AnyFace3D/assets/celebrity_selfie/mask_1.jpg" width="800"> | ![1](AnyFace3D/assets/celebrity_selfie/1.gif) |
+| <img src="AnyFace3D/assets/celebrity_selfie/mask_2.jpg" width="800">| ![3](AnyFace3D/assets/celebrity_selfie/2.gif) |
+| <img src="AnyFace3D/assets/celebrity_selfie/mask_3.jpg" width="800">| ![3](AnyFace3D/assets/celebrity_selfie/3.gif) |
 
 
 ## :cupid: Acknowledgements
