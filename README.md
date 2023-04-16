@@ -5,6 +5,7 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 
 - [Anything-3DNovel-View](#anything-3dnovel-view)
 - [Any-3DFace](#any-3dface)
+- [Anything-3D-Objects](#anything-3d-objects)
 - [:cupid: Acknowledgements](#cupid-acknowledgements)
 - [Citation](#citation)
 ## Anything-3DNovel-View
@@ -18,17 +19,26 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 - SAM + [HRN](https://younglbw.github.io/HRN-homepage/)
 
 | Segmentation | Result|
-| --- | ---|
+| :---: | :---:|
 | <img src="AnyFace3D/assets/celebrity_selfie/mask_1.jpg" width="2000"> | ![1](AnyFace3D/assets/celebrity_selfie/1.gif) |
 | <img src="AnyFace3D/assets/celebrity_selfie/mask_2.jpg" width="2000">| ![3](AnyFace3D/assets/celebrity_selfie/2.gif) |
 | <img src="AnyFace3D/assets/celebrity_selfie/mask_3.jpg" width="2000">| ![3](AnyFace3D/assets/celebrity_selfie/3.gif) |
 
+
+## Anything-3D-Objects
+- SAM + [3DFuse](https://github.com/KU-CVLAB/3DFuse)
+
+| Segmentation | Result|
+| :---: | :---:|
+| <img src="AnyObject3D/assets/bull_mask.png" width="550"> | ![1](AnyObject3D/assets/bull.gif) |
+| <img src="AnyObject3D/assets/corgi_mask.png" width="550">| ![2](AnyObject3D/assets/corgi.gif) |
 
 
 ## :cupid: Acknowledgements
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
 - [Zero 1-to-3](https://github.com/cvlab-columbia/zero123)
 - [HRN](https://younglbw.github.io/HRN-homepage/)
+- [3DFuse](https://github.com/KU-CVLAB/3DFuse)
 
 ## Citation
 If you find this project helpful for your research, please consider citing the following BibTeX entry.
