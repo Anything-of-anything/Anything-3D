@@ -1,22 +1,43 @@
 ![logo](logo.jpg)
 <!-- # Anything-3D -->
 
-We plan to create a very interesting demo by combining [Segment Anything](https://github.com/facebookresearch/segment-anything) and a series of 3D models! Right now, this is just a simple small project. We will continue to improve it and create more interesting demos. 
 
-- [Anything-3DNovel-View](#anything-3dnovel-view)
-- [Any-3DFace](#any-3dface)
-- [Anything-3D-Objects](#anything-3d-objects)
+🎉🎉🎉Welcome to the Anything-3D GitHub repository!🎉🎉🎉 
+
+
+Here we present a project where we combine [Segment Anything](https://github.com/facebookresearch/segment-anything) with a series of 3D models to create a very interesting demo. This is currently a small project, but we plan to continue improving it and creating more exciting demos.
+
+**Contributions are highly Welcomed!🤝🙌**
+
+
+
+- [🤩 Anything-3D-Objects](#-anything-3d-objects)
+- [🔥 Anything-3DNovel-View](#-anything-3dnovel-view)
+- [😎 Any-3DFace](#-any-3dface)
 - [:cupid: Acknowledgements](#cupid-acknowledgements)
 - [Citation](#citation)
-## Anything-3DNovel-View
-- SAM + [Zero 1-to-3](https://github.com/cvlab-columbia/zero123)
+
+## 🤩 Anything-3D-Objects
+
+In this section, we showcase the results of combining [Segment Anything](https://github.com/facebookresearch/segment-anything) with [3DFuse](https://github.com/KU-CVLAB/3DFuse) to segment and reconstruct 3D objects in the wild. Check out the following table for segmentation results and the corresponding 3D object:
+
+
+| Segmentation | Result|
+| :---: | :---:|
+| <img src="AnyObject3D/assets/bull_mask.png" width="550"> | ![1](AnyObject3D/assets/bull.gif) |
+| <img src="AnyObject3D/assets/corgi_mask.png" width="550">| ![2](AnyObject3D/assets/corgi.gif) |
+
+## 🔥 Anything-3DNovel-View
+
+In this section, we demonstrate the combination of [Segment Anything](https://github.com/facebookresearch/segment-anything) with [Zero 1-to-3](https://github.com/cvlab-columbia/zero123) to generate novel views of 3D objects. Check out the following images:
 
 ![1](novel-view/assets/1.jpeg)
 ![2](novel-view/assets/2.jpeg)
 ![3](novel-view/assets/3.jpeg)
 
-## Any-3DFace
-- SAM + [HRN](https://younglbw.github.io/HRN-homepage/)
+## 😎 Any-3DFace
+
+In this section, we showcase the results of combining [Segment Anything](https://github.com/facebookresearch/segment-anything) with [HRN](https://younglbw.github.io/HRN-homepage/) for accurate and detailed face reconstruction from in-the-wild images. Check out the following table for segmentation results and the corresponding face reconstruction:
 
 | Segmentation | Result|
 | :---: | :---:|
@@ -25,16 +46,9 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 | <img src="AnyFace3D/assets/celebrity_selfie/mask_3.jpg" width="2000">| ![3](AnyFace3D/assets/celebrity_selfie/3.gif) |
 
 
-## Anything-3D-Objects
-- SAM + [3DFuse](https://github.com/KU-CVLAB/3DFuse)
-
-| Segmentation | Result|
-| :---: | :---:|
-| <img src="AnyObject3D/assets/bull_mask.png" width="550"> | ![1](AnyObject3D/assets/bull.gif) |
-| <img src="AnyObject3D/assets/corgi_mask.png" width="550">| ![2](AnyObject3D/assets/corgi.gif) |
-
 
 ## :cupid: Acknowledgements
+We would like to acknowledge the following projects for their valuable contributions:
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
 - [Zero 1-to-3](https://github.com/cvlab-columbia/zero123)
 - [HRN](https://younglbw.github.io/HRN-homepage/)
@@ -61,5 +75,11 @@ If you find this project helpful for your research, please consider citing the f
     title={A Hierarchical Representation Network for Accurate and Detailed Face Reconstruction from In-The-Wild Images},
     author={Biwen Lei and Jianqiang Ren and Mengyang Feng and Miaomiao Cui and Xuansong Xie},
     year={2023}
+}
+@article{seo2023let,
+  title={Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation},
+  author={Seo, Junyoung and Jang, Wooseok and Kwak, Min-Seop and Ko, Jaehoon and Kim, Hyeonsu and Kim, Junho and Kim, Jin-Hwa and Lee, Jiyoung and Kim, Seungryong},
+  journal={arXiv preprint arXiv:2303.07937},
+  year={2023}
 }
 ```
