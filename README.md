@@ -30,8 +30,8 @@ We plan to create a very interesting demo by combining [Segment Anything](https:
 
 | Segmentation | Result|
 | :---: | :---:|
-| <img src="AnyObject3D/assets/bull_mask.png" width="1000"> | ![1](AnyObject3D/assets/bull.gif) |
-| <img src="AnyObject3D/assets/corgi_mask.png" width="1000">| ![2](AnyObject3D/assets/corgi.gif) |
+| <img src="AnyObject3D/assets/bull_mask.png" width="550"> | ![1](AnyObject3D/assets/bull.gif) |
+| <img src="AnyObject3D/assets/corgi_mask.png" width="550">| ![2](AnyObject3D/assets/corgi.gif) |
 
 
 ## :cupid: Acknowledgements
