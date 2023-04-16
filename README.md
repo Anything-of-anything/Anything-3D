@@ -77,9 +77,9 @@ If you find this project helpful for your research, please consider citing the f
     year={2023}
 }
 @article{seo2023let,
-  title={Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation},
-  author={Seo, Junyoung and Jang, Wooseok and Kwak, Min-Seop and Ko, Jaehoon and Kim, Hyeonsu and Kim, Junho and Kim, Jin-Hwa and Lee, Jiyoung and Kim, Seungryong},
-  journal={arXiv preprint arXiv:2303.07937},
-  year={2023}
+    title={Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation},
+    author={Seo, Junyoung and Jang, Wooseok and Kwak, Min-Seop and Ko, Jaehoon and Kim, Hyeonsu and Kim, Junho and Kim, Jin-Hwa and Lee, Jiyoung and Kim, Seungryong},
+    journal={arXiv preprint arXiv:2303.07937},
+    year={2023}
 }
 ```
