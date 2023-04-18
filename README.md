@@ -13,7 +13,7 @@ Here we present a project where we combine [Segment Anything](https://github.com
 
 - [🤩 Anything-3D-Objects](#-anything-3d-objects)
 - [🔥 Anything-3DNovel-View](#-anything-3dnovel-view)
-- [🥳 Anything-3DNovel-View](#-anything-nerf-view)
+- [🥳 Anything-NeRF](#-anything-nerf)
 - [😎 Any-3DFace](#-any-3dface)
 - [:cupid: Acknowledgements](#cupid-acknowledgements)
 - [Citation](#citation)
@@ -38,7 +38,8 @@ In this section, we demonstrate the combination of [Segment Anything](https://gi
 
 
 ## 🥳 Anything-NeRF
-In this section, we demonstrate the combination of [Segment Anything](https://github.com/facebookresearch/segment-anything) with [NeRF](https://github.com/kwea123/nerf_pl) to synthesize novel views of objects with complex background. 
+
+In this section, we showcase the integration of [Segment Anything](https://github.com/facebookresearch/segment-anything) with [NeRF](https://github.com/kwea123/nerf_pl) to generate new perspectives of objects set against intricate backgrounds. When an object is positioned in front of a plain, perspective-less background, NeRF typically struggles to reconstruct the scene. However, by eliminating the background, we can enhance NeRF's performance and facilitate more accurate reconstructions of scenes with objects presented in novel views. 
 
 | Segmentation-1 |Segmentation-2 | Result|
 | :---: | :---: |  :---:|
@@ -92,9 +93,9 @@ If you find this project helpful for your research, please consider citing the f
     year={2023}
 }
 @inproceedings{mildenhall2020nerf,
- title={NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis},
- author={Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
- year={2020},
- booktitle={ECCV},
+    title={NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis},
+    author={Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
+    year={2020},
+    booktitle={ECCV},
 }
 ```
