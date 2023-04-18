@@ -38,6 +38,8 @@ In this section, we demonstrate the combination of [Segment Anything](https://gi
 
 
 ## 🥳 Anything-NeRF
+In this section, we demonstrate the combination of [Segment Anything](https://github.com/facebookresearch/segment-anything) with [NeRF](https://github.com/kwea123/nerf_pl) to synthesize novel views of objects with complex background. 
+
 | Segmentation-1 |Segmentation-2 | Result|
 | :---: | :---: |  :---:|
 | <img src="AnyNeRF/assets/crop.png" width="400"> | <img src="AnyNeRF/assets/crop2.png" width="400"> | ![1](AnyNeRF/assets/my_gif.gif) |
@@ -88,5 +90,11 @@ If you find this project helpful for your research, please consider citing the f
     author={Seo, Junyoung and Jang, Wooseok and Kwak, Min-Seop and Ko, Jaehoon and Kim, Hyeonsu and Kim, Junho and Kim, Jin-Hwa and Lee, Jiyoung and Kim, Seungryong},
     journal={arXiv preprint arXiv:2303.07937},
     year={2023}
+}
+@inproceedings{mildenhall2020nerf,
+ title={NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis},
+ author={Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
+ year={2020},
+ booktitle={ECCV},
 }
 ```
