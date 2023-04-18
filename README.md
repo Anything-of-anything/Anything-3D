@@ -13,6 +13,7 @@ Here we present a project where we combine [Segment Anything](https://github.com
 
 - [🤩 Anything-3D-Objects](#-anything-3d-objects)
 - [🔥 Anything-3DNovel-View](#-anything-3dnovel-view)
+- [🥳 Anything-3DNovel-View](#-anything-nerf-view)
 - [😎 Any-3DFace](#-any-3dface)
 - [:cupid: Acknowledgements](#cupid-acknowledgements)
 - [Citation](#citation)
@@ -34,6 +35,12 @@ In this section, we demonstrate the combination of [Segment Anything](https://gi
 ![1](novel-view/assets/1.jpeg)
 ![2](novel-view/assets/2.jpeg)
 ![3](novel-view/assets/3.jpeg)
+
+
+## 🥳 Anything-NeRF
+| Segmentation-1 |Segmentation-2 | Result|
+| :---: | :---: |  :---:|
+| <img src="AnyNeRF/assets/crop.png" width="400"> | <img src="AnyNeRF/assets/crop2.png" width="400"> | ![1](AnyNeRF/assets/my_gif.gif) |
 
 ## 😎 Any-3DFace
 
