@@ -65,6 +65,17 @@ We would like to acknowledge the following projects for their valuable contribut
 ## Citation
 If you find this project helpful for your research, please consider citing the following BibTeX entry.
 ```BibTex
+@misc{shen2023anything3d,
+      title={Anything-3D: Towards Single-view Anything Reconstruction in the Wild}, 
+      author={Qiuhong Shen and Xingyi Yang and Xinchao Wang},
+      year={2023},
+      eprint={2304.10261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+And other projects
+```BibTex
 @article{kirillov2023segany,
     title={Segment Anything}, 
     author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C. and Lo, Wan-Yen and Doll{\'a}r, Piotr and Girshick, Ross},
