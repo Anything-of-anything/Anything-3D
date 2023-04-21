@@ -66,12 +66,12 @@ We would like to acknowledge the following projects for their valuable contribut
 If you find this project helpful for your research, please consider citing the following BibTeX entry.
 ```BibTex
 @misc{shen2023anything3d,
-      title={Anything-3D: Towards Single-view Anything Reconstruction in the Wild}, 
-      author={Qiuhong Shen and Xingyi Yang and Xinchao Wang},
-      year={2023},
-      eprint={2304.10261},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+    title={Anything-3D: Towards Single-view Anything Reconstruction in the Wild}, 
+    author={Qiuhong Shen and Xingyi Yang and Xinchao Wang},
+    year={2023},
+    eprint={2304.10261},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 ```
 And other projects
