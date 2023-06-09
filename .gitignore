@@ -119,4 +119,7 @@ venv.bak/
 # datasets and logs and checkpoints
 data/
 work_dir/
-
+AnyObject3D/src/temp/
+AnyObject3D/src/weights/
+AnyObject3D/src/results/
+AnyObject3D/src/point_e_model_cache/
