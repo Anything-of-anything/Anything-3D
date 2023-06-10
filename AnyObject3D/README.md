@@ -51,6 +51,8 @@ src/
 ├── rec_car.sh
 └── requirements.txt
 ```
+- `rec_car.sh` is a shell script that contains a sample code to reconstrct the `images/car.jpg`.
+- `requirements.txt` specifies all enviroment requirements.
 
 ## License
 
