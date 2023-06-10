@@ -40,6 +40,10 @@ find ./results -name '*.mp4'
 If your have any other problems, feel free to open an issue at this repo. 
 
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/Anything-of-anything/Anything-3D/blob/main/LICENSE).
+
 ## Acknowledgement
 We express our gratitude to the exceptional project that inspired our code.
 - [Segment-Anything](https://github.com/facebookresearch/segment-anything)
