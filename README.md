@@ -4,6 +4,7 @@
 🎉🎉🎉Welcome to the Anything-3D GitHub repository!🎉🎉🎉 
 
 - 🔥[Technical Report](https://arxiv.org/abs/2304.10261) is out🔥
+- 🔥[Open-source Code](https://github.com/Anything-of-anything/Anything-3D/tree/main/AnyObject3D) is out🔥
 
 Here we present a project where we combine [Segment Anything](https://github.com/facebookresearch/segment-anything) with a series of 3D models to create a very interesting demo. This is currently a small project, but we plan to continue improving it and creating more exciting demos.
 
