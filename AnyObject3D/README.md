@@ -4,6 +4,7 @@ This repository contains the official implementation of Anything-3D, a novel fra
 
 ![pipeline](https://github.com/Anything-of-anything/Anything-3D/blob/main/AnyObject3D/assets/pipeline_anything3d.jpg)
 
+
 ## Preparation
 
 Before running the code, make sure to install the required dependencies listed in the requirements.txt file.
@@ -40,6 +41,16 @@ find ./results -name '*.mp4'
 ```
 If your have any other problems, feel free to open an issue at this repo. 
 
+## File organization
+```
+src/
+├── 3DFuse/ # source code from 3DFuse
+├── images/ # Images to be reconstructed
+├── main.py
+├── mono_rec.py
+├── rec_car.sh
+└── requirements.txt
+```
 
 ## License
 
