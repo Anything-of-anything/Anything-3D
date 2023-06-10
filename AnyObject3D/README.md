@@ -2,6 +2,7 @@
 
 This repository contains the official implementation of Anything-3D, a novel framework designed to address the challenges of 3D reconstruction from a single RGB image in unconstrained real-world scenarios. The diversity and complexity of objects and environments pose significant difficulties in accurately reconstructing 3D geometry from a single viewpoint. Anything-3D presents a systematic approach that combines visual-language models and the Segment-Anything object segmentation model to elevate objects to 3D, resulting in a reliable and versatile system for the single-view conditioned 3D reconstruction task.
 
+![pipeline](https://github.com/Anything-of-anything/Anything-3D/blob/main/AnyObject3D/assets/pipeline_anything3d.jpg)
 
 ## Preparation
 
